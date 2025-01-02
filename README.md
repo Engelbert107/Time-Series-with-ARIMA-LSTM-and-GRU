@@ -1,1 +1,1 @@
-# Time-Series-with-ARIMA-LSTM-and-GRU
+# Time Series with ARIMA, LSTM and GRU
