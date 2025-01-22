@@ -19,3 +19,4 @@ Our RNN models, especially `Bi-LSTM`, suffered from overfitting. To address this
 For the best-performing model (`Bi-LSTM`), we used `Bayesian Optimization` to fine-tune hyperparameters, followed by validation and testing on the final dataset.
 
 ![](images/best_bilstm.png)
+![](images/best_bilstm_zoomed.png)
