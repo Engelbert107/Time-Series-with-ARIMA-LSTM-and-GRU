@@ -4,7 +4,7 @@ In this project, we explore time series forecasting using both traditional and d
 
 #### 1. Traditional Models: ARIMA, SARIMA, and Auto ARIMA
 
-We started with `ARIMA`, `SARIMA`, and `Auto ARIMA` models, evaluating their performance using metrics such as `ME`, `MSE`, `RMSE`, `MAE`, `MPE, MAPE, and `SMAPE` to assess how well they learn from the data and make predictions.
+We started with `ARIMA`, `SARIMA`, and `Auto ARIMA` models, evaluating their performance using metrics such as `ME`, `MSE`, `RMSE`, `MAE`, `MPE, MAPE`, and `SMAPE` to assess how well they learn from the data and make predictions.
 
 #### 2. Deep Learning Models: LSTM, Bi-LSTM, and GRU
 
