@@ -8,7 +8,7 @@ We started with `ARIMA`, `SARIMA`, and `Auto ARIMA` models, evaluating their per
 
 #### 2. Deep Learning Models: LSTM, Bi-LSTM, and GRU
 
-Next, we applied `LSTM, Bi-LSTM`, and GRU models. We evaluated these models using `ME`, `MSE`, `RMSE`, `MAE`, `MPE, MAPE, SMAPE, and $R^2$ to measure their forecasting performance.
+Next, we applied `LSTM, Bi-LSTM`, and GRU models. We evaluated these models using `ME`, `MSE`, `RMSE`, `MAE`, `MPE, MAPE, SMAPE`, and $R^2$ to measure their forecasting performance.
 
 #### 3. Results and Challenges
 
