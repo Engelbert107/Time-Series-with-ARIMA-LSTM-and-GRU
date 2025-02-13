@@ -6,7 +6,7 @@ In this project, we explore time series forecasting using both traditional and d
 
 We started with `ARIMA`, `SARIMA`, and `Auto ARIMA` models, evaluating their performance using metrics such as `ME`, `MSE`, `RMSE`, `MAE`, `MPE`, `MAPE`, and `SMAPE` to assess how well they learn from the data and make predictions.
 
-#### 2. Deep Learning Models: LSTM, Bi-LSTM, and GRU
+#### Deep Learning Models: LSTM, Bi-LSTM, and GRU
 
 Next, we applied `LSTM, Bi-LSTM`, and GRU models. We evaluated these models using `ME`, `MSE`, `RMSE`, `MAE`, `MPE`, `MAPE`, `SMAPE`, and `R2` to measure their forecasting performance.
 
