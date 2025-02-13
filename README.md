@@ -2,7 +2,7 @@
 
 In this project, we explore time series forecasting using both traditional and deep learning models on a disaster dataset. Our goal is to evaluate the performance of various models and identify the best approach for making predictions.
 
-#### 1. Traditional Models: ARIMA, SARIMA, and Auto ARIMA
+#### Traditional Models: ARIMA, SARIMA, and Auto ARIMA
 
 We started with `ARIMA`, `SARIMA`, and `Auto ARIMA` models, evaluating their performance using metrics such as `ME`, `MSE`, `RMSE`, `MAE`, `MPE`, `MAPE`, and `SMAPE` to assess how well they learn from the data and make predictions.
 
