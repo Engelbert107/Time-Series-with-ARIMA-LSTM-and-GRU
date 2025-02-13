@@ -14,7 +14,7 @@ Next, we applied `LSTM, Bi-LSTM`, and GRU models. We evaluated these models usin
 
 Our RNN models, especially `Bi-LSTM`, suffered from overfitting. To address this, we applied data augmentation to improve generalization and reduce overfitting.
 
-#### 4. Final Model Optimization
+#### Final Model Optimization
 
 For the best-performing model (`Bi-LSTM`), we used `Bayesian Optimization` to fine-tune hyperparameters, followed by validation and testing on the final dataset.
 
