@@ -10,7 +10,7 @@ We started with `ARIMA`, `SARIMA`, and `Auto ARIMA` models, evaluating their per
 
 Next, we applied `LSTM, Bi-LSTM`, and GRU models. We evaluated these models using `ME`, `MSE`, `RMSE`, `MAE`, `MPE`, `MAPE`, `SMAPE`, and `R2` to measure their forecasting performance.
 
-#### 3. Results and Challenges
+#### Results and Challenges
 
 Our RNN models, especially `Bi-LSTM`, suffered from overfitting. To address this, we applied data augmentation to improve generalization and reduce overfitting.
 
